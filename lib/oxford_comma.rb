@@ -8,9 +8,9 @@ def oxford_comma(array)
     element = array.pop
     str = array.join(", ")
     str + "and #{element}"
-  end
+  
 
-    
+
   end
 
 end
